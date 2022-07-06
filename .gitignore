@@ -46,6 +46,7 @@ waf3-*
 __pycache__
 analysis_out
 bld
+sandbox
 build
 debug
 Debug
@@ -68,4 +69,4 @@ ___*
 .env/installed_conda_pkgs
 .env/installed_pip_pkgs
 .env/installed_spec.json
-# !.pre-commit-config.yaml
+!.pre-commit-config.yaml
